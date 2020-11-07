@@ -1,0 +1,235 @@
+adjunct comp adjunct adjunct comp adjunct comp neg pred adjunct punct complm adjunct subj comp_fin adjunct mwe comp_inf punct 
+adjunct subj adjunct pred adjunct obj adjunct adjunct punct adjunct comp adjunct subj adjunct adjunct comp adjunct comp adjunct punct 
+adjunct comp adjunct pred adjunct comp adjunct adjunct adjunct obj adjunct adjunct comp conjunct app adjunct adjunct abbrev_punct conjunct punct adjunct adjunct subj adjunct punct 
+adjunct adjunct adjunct comp conjunct obj pred conjunct obj comp comp obj punct 
+comp adjunct comp pred obj adjunct comp comp punct 
+pred comp_inf obj comp adjunct comp adjunct punct 
+pred refl punct complm subj comp_fin refl comp_inf comp comp adjunct obj punct 
+adjunct obj comp pred subj punct 
+pred obj_th punct complm subj comp_fin obj comp_inf punct 
+adjunct adjunct subj adjunct comp pred adjunct adjunct comp punct 
+adjunct subj pred refl comp adjunct comp punct 
+pred aux adjunct subj punct 
+adjunct comp ne ne obj_th mwe adjunct adjunct comp adjunct adjunct pred adjunct obj adjunct punct 
+subj punct subj adjunct adjunct obj_th punct adjunct pred comp punct 
+adjunct subj conjunct pd pred adjunct obj_th conjunct conjunct conjunct obj adjunct adjunct conjunct adjunct comp obj conjunct adjunct adjunct comp comp punct 
+adjunct pd adjunct pred adjunct comp conjunct adjunct obj subj conjunct punct 
+subj adjunct pred pd punct 
+adjunct conjunct punct coord obj adjunct comp subj conjunct cond comp punct 
+adjunct pred refl obj_th comp_inf adjunct adjunct comp punct 
+pred adjunct subj punct 
+pred refl comp adjunct comp punct adjunct adjunct obj punct 
+adjunct subj punct subj adjunct adjunct refl comp punct aux pred adjunct comp adjunct comp adjunct punct 
+adjunct adjunct comp subj pred obj comp comp obj comp comp adjunct punct 
+adjunct adjunct pred adjunct obj punct 
+adjunct comp pred neg comp_inf obj_th punct 
+obj_th adjunct pred subj adjunct adjunct ne comp adjunct comp adjunct comp punct 
+obj adjunct pred adjunct subj conjunct adjunct conjunct comp comp punct 
+punct conjunct adjunct punct adjunct punct obj coord_punct conjunct adjunct punct pd comp_fin adjunct subj punct 
+aux pred adjunct subj conjunct adjunct conjunct punct subj adjunct refl adjunct obj_th punct adjunct neg adjunct adjunct obj punct 
+adjunct conjunct refl comp ne coord subj conjunct adjunct obj adjunct adjunct comp punct 
+punct adjunct subj pred adjunct punct complm comp_inf adjunct obj punct 
+adjunct pred subj app pd adjunct adjunct comp adjunct adjunct adjunct conjunct adjunct conjunct adjunct comp adjunct punct 
+adjunct pred adjunct comp punct 
+neg pred punct adjunct pd comp_fin subj ne punct subj adjunct cond comp_inf obj comp comp punct adjunct comp_inf obj comp punct 
+punct neg pred obj_th adjunct obj punct 
+punct subj adjunct conjunct refl comp adjunct comp comp comp adjunct punct coord adjunct adjunct subj adjunct comp adjunct adjunct conjunct pd adjunct adjunct comp punct 
+subj adjunct pred adjunct comp adjunct punct 
+pred comp adjunct comp adjunct comp adjunct comp obj adjunct adjunct adjunct conjunct adjunct conjunct comp punct subj adjunct comp comp comp adjunct adjunct adjunct comp adjunct comp punct 
+subj pred pd adjunct adjunct punct adjunct comp adjunct subj adjunct adjunct adjunct comp punct 
+subj ne abbrev_punct pred adjunct pd punct 
+adjunct conjunct adjunct conjunct subj aux pred adjunct adjunct comp adjunct punct 
+adjunct adjunct comp adjunct comp comp adjunct pred adjunct subj punct 
+adjunct adjunct obj pred adjunct obj_th adjunct comp adjunct punct 
+adjunct comp pred comp_inf adjunct adjunct obj adjunct adjunct comp adjunct adjunct comp punct 
+subj adjunct comp pred adjunct obj punct 
+comp comp pred refl adjunct adjunct mwe mwe subj punct 
+pred comp comp punct complm subj conjunct refl adjunct comp punct complm adjunct adjunct comp conjunct obj adjunct adjunct comp_fin complm neg conjunct adjunct pd conjunct obj punct conjunct adjunct punct conjunct adjunct adjunct subj conjunct obj punct 
+subj pred adjunct adjunct obj adjunct punct 
+adjunct comp pred adjunct obj app subj punct subj adjunct adjunct comp adjunct adjunct obj punct 
+adjunct adjunct comp obj adjunct adjunct pred obj_th subj adjunct adjunct conjunct adjunct conjunct adjunct comp adjunct punct 
+subj adjunct ne adjunct comp app ne punct adjunct refl comp adjunct punct pred adjunct adjunct comp adjunct comp adjunct comp punct adjunct subj comp_fin refl comp adjunct obj_th comp punct 
+adjunct subj app pred obj adjunct adjunct comp punct 
+subj adjunct ne pred comp_inf obj adjunct comp adjunct comp punct neg adjunct adjunct adjunct obj punct 
+subj adjunct adjunct comp adjunct adjunct comp adjunct conjunct comp punct coord adjunct subj conjunct aux comp_inf comp comp punct 
+subj adjunct ne adjunct mwe adjunct comp conjunct adjunct pd punct pred adjunct adjunct comp adjunct adjunct comp conjunct adjunct comp punct 
+pred obj adjunct punct adjunct comp comp comp comp punct 
+subj adjunct adjunct punct subj adjunct adjunct obj adjunct comp adjunct punct pred comp_inf obj conjunct adjunct conjunct punct 
+subj adjunct adjunct pred refl adjunct comp adjunct obj punct adjunct obj adjunct adjunct adjunct adjunct comp adjunct punct 
+adjunct comp adjunct pred obj adjunct adjunct adjunct comp punct 
+adjunct adjunct adjunct subj neg pred refl adjunct comp adjunct adjunct punct 
+adjunct adjunct mwe punct adjunct comp conjunct adjunct comp adjunct conjunct obj punct comp adjunct pred refl adjunct mwe adjunct adjunct adjunct obj punct 
+pred punct complm adjunct adjunct comp_fin comp_inf refl adjunct subj punct 
+adjunct subj punct adjunct adjunct punct pred refl comp_inf punct 
+pred conjunct pd conjunct adjunct comp obj adjunct comp punct 
+conjunct comp comp conjunct conjunct obj_th obj adjunct coord_punct conjunct aglt adjunct adjunct obj punct comp adjunct conjunct conjunct adjunct comp punct 
+subj adjunct refl adjunct adjunct comp pred obj_th refl adjunct pd punct 
+subj adjunct adjunct pred punct complm adjunct subj adjunct neg comp_fin adjunct punct 
+adjunct comp_fin adjunct adjunct obj conjunct adjunct conjunct punct neg pred comp comp refl comp adjunct conjunct punct conjunct comp conjunct punct 
+punct subj adjunct adjunct comp pred comp adjunct comp punct 
+adjunct adjunct adjunct punct aux pred adjunct subj punct adjunct subj comp_fin punct complm subj app comp_fin comp comp adjunct adjunct adjunct punct 
+adjunct adjunct pred conjunct adjunct conjunct adjunct conjunct comp conjunct obj adjunct punct 
+subj neg pred conjunct pd conjunct punct 
+subj neg pred conjunct pd conjunct adjunct comp adjunct punct 
+subj neg pred conjunct adjunct pd conjunct punct 
+adjunct comp adjunct comp comp adjunct ne punct subj adjunct adjunct comp adjunct punct pred adjunct subj adjunct adjunct adjunct adjunct comp adjunct adjunct punct 
+comp comp conjunct aglt obj adjunct comp coord_punct adjunct subj conjunct pd adjunct adjunct punct 
+adjunct adjunct obj pred subj adjunct adjunct punct app punct complm neg comp_fin refl obj_th comp_inf adjunct obj comp adjunct adjunct comp punct 
+subj pred pd adjunct adjunct conjunct comp adjunct conjunct punct 
+adjunct obj pred adjunct ne comp ne punct 
+adjunct conjunct adjunct subj conjunct pred pd adjunct adjunct comp punct 
+adjunct adjunct comp pred aglt adjunct comp adjunct comp punct 
+pred refl adjunct adjunct conjunct adjunct adjunct comp punct adjunct adjunct comp adjunct adjunct comp punct subj mwe adjunct conjunct punct adjunct conjunct conjunct conjunct punct 
+subj adjunct adjunct comp adjunct pred adjunct pd conjunct adjunct conjunct adjunct punct 
+conjunct obj punct coord subj adjunct refl comp adjunct comp conjunct obj_th comp comp punct 
+adjunct comp conjunct obj comp comp adjunct punct conjunct comp comp punct conjunct obj pred conjunct pd adjunct comp punct 
+subj adjunct adjunct mwe neg pred comp adjunct adjunct comp punct 
+subj conjunct punct conjunct adjunct conjunct adjunct pred comp_inf comp comp conjunct obj conjunct adjunct adjunct ne punct 
+conjunct adjunct obj pred conjunct adjunct obj punct obj adjunct subj adjunct obj_th adjunct punct 
+pred punct complm neg comp_fin comp adjunct adjunct comp adjunct adjunct adjunct adjunct adjunct comp punct 
+punct adjunct neg pred subj obj adjunct comp adjunct adjunct comp punct 
+subj ne abbrev_punct adjunct punct complm adjunct subj neg conjunct adjunct obj punct comp_fin subj conjunct adjunct comp punct conjunct obj conjunct adjunct conjunct adjunct adjunct obj punct pred refl adjunct comp adjunct comp comp comp punct 
+subj adjunct neg conjunct adjunct comp adjunct obj comp punct pred adjunct mwe adjunct comp neg conjunct comp_inf comp comp adjunct comp adjunct comp ne punct 
+adjunct comp comp subj obj_th pred comp comp punct adjunct obj_th conjunct obj conjunct punct 
+pred adjunct comp_inf punct complm comp comp adjunct comp_fin adjunct obj punct 
+conjunct obj adjunct comp punct adjunct obj adjunct comp comp adjunct adjunct pred conjunct comp conjunct comp adjunct conjunct adjunct conjunct conjunct punct 
+adjunct comp adjunct adjunct adjunct pred refl punct complm comp neg conjunct adjunct punct adjunct comp_fin subj punct comp_fin obj conjunct adjunct subj adjunct adjunct conjunct comp adjunct conjunct punct 
+adjunct subj conjunct pd coord_punct subj adjunct adjunct comp adjunct adjunct conjunct conjunct adjunct conjunct obj punct 
+adjunct comp adjunct adjunct comp subj pred obj_th obj conjunct adjunct conjunct adjunct adjunct punct 
+adjunct adjunct comp subj pred adjunct pd adjunct adjunct comp punct 
+pred refl obj_th adjunct punct subj adjunct comp adjunct obj comp adjunct adjunct punct 
+subj comp pred obj punct adjunct comp_fin adjunct comp pd punct 
+subj adjunct pred obj comp adjunct comp punct 
+adjunct adjunct subj adjunct pred adjunct comp conjunct comp conjunct punct 
+adjunct subj adjunct adjunct pred comp adjunct adjunct comp adjunct adjunct punct 
+adjunct adjunct subj adjunct pred punct complm subj adjunct comp_fin refl adjunct adjunct comp punct 
+comp comp conjunct adjunct conjunct pred refl adjunct adjunct conjunct subj conjunct adjunct punct adjunct adjunct comp comp adjunct punct 
+adjunct adjunct adjunct comp subj conjunct obj adjunct adjunct pred conjunct obj conjunct adjunct adjunct conjunct adjunct punct 
+pred subj punct subj adjunct comp adjunct adjunct adjunct obj adjunct comp adjunct adjunct punct 
+adjunct subj pred obj adjunct punct 
+pred aglt comp_inf punct complm subj adjunct adjunct comp adjunct comp_fin comp_inf pd punct 
+subj conjunct comp_inf obj coord subj adjunct adjunct adjunct adjunct comp conjunct adjunct obj punct 
+pred aux subj punct adjunct app punct 
+subj adjunct adjunct adjunct adjunct pred comp punct 
+adjunct subj adjunct adjunct pred comp adjunct adjunct punct 
+adjunct adjunct adjunct comp comp adjunct comp pred refl adjunct subj punct adjunct subj adjunct punct adjunct comp conjunct adjunct conjunct adjunct obj punct adjunct adjunct pd punct 
+subj pred refl comp comp adjunct conjunct comp adjunct adjunct adjunct conjunct punct adjunct comp app punct 
+adjunct adjunct conjunct adjunct comp comp conjunct comp punct subj pred comp_inf adjunct comp adjunct comp comp adjunct comp punct 
+adjunct adjunct comp adjunct subj comp conjunct comp comp adjunct punct coord adjunct abbrev_punct subj mwe conjunct obj punct 
+pred obj adjunct comp_inf punct adjunct subj adjunct comp_fin comp comp adjunct punct 
+adjunct conjunct refl comp comp adjunct comp adjunct adjunct subj conjunct adjunct comp punct subj pred obj punct complm comp_fin refl adjunct adjunct comp punct 
+conjunct comp coord_punct conjunct conjunct adjunct conjunct subj punct 
+pred subj adjunct pd adjunct comp punct subj adjunct adjunct obj punct complm comp_fin comp_inf adjunct comp adjunct adjunct obj punct 
+adjunct comp adjunct adjunct pred adjunct subj punct 
+subj pred punct complm comp_fin comp adjunct adjunct comp punct 
+adjunct pred adjunct conjunct subj conjunct punct 
+adjunct obj_th pred subj punct adjunct mwe comp_fin subj adjunct comp adjunct comp adjunct punct 
+adjunct pred refl adjunct subj punct 
+pred refl adjunct comp_inf punct subj adjunct obj adjunct comp_fin comp conjunct comp conjunct punct 
+adjunct adjunct neg pred punct complm aglt comp_fin obj conjunct comp conjunct comp punct 
+adjunct adjunct comp punct pred obj_th refl comp_inf adjunct comp adjunct obj adjunct comp punct 
+pd adjunct pred adjunct subj punct 
+adjunct adjunct obj_th adjunct comp punct conjunct adjunct conjunct adjunct comp punct subj pred obj punct 
+adjunct subj punct adjunct adjunct comp adjunct comp adjunct comp adjunct comp punct pred adjunct obj punct 
+adjunct adjunct obj adjunct pred subj punct complm conjunct subj conjunct comp_fin adjunct adjunct obj punct 
+adjunct subj neg pred adjunct obj punct punct punct 
+adjunct conjunct adjunct adjunct obj pred adjunct conjunct adjunct obj adjunct adjunct punct 
+adjunct obj pred aglt comp conjunct adjunct conjunct comp punct 
+adjunct adjunct comp comp pred refl comp_inf comp adjunct conjunct comp adjunct conjunct adjunct punct 
+adjunct subj neg conjunct comp_inf adjunct obj_th adjunct adjunct adjunct comp adjunct punct pred adjunct adjunct conjunct obj obj_th punct 
+subj pred comp comp obj punct subj adjunct obj_th comp_inf obj punct 
+adjunct comp conjunct obj pred adjunct conjunct adjunct obj punct 
+conjunct refl comp coord_punct conjunct refl comp adjunct adjunct punct 
+adjunct comp adjunct pred adjunct adjunct subj comp punct adjunct comp comp comp comp ne punct 
+comp comp adjunct comp adjunct pred subj adjunct comp adjunct comp adjunct comp punct 
+adjunct conjunct comp adjunct comp punct conjunct refl pred conjunct punct 
+pred adjunct obj obj_th adjunct punct adjunct comp adjunct adjunct subj punct 
+adjunct subj adjunct comp_fin obj punct subj adjunct adjunct comp comp abbrev_punct app ne pred refl comp conjunct adjunct comp conjunct adjunct punct 
+pred conjunct adjunct conjunct subj adjunct comp punct 
+pred adjunct adjunct comp punct adjunct adjunct comp conjunct adjunct conjunct adjunct punct 
+subj adjunct app ne pred adjunct obj adjunct obj_th punct subj conjunct refl comp comp obj adjunct adjunct comp subj adjunct comp aux conjunct comp_inf comp comp punct 
+punct obj pred punct adjunct adjunct adjunct adjunct comp adjunct comp comp punct 
+subj adjunct pred adjunct obj_th adjunct comp adjunct adjunct adjunct comp adjunct punct 
+pred adjunct punct complm adjunct comp comp comp_fin refl subj adjunct comp punct subj adjunct comp adjunct adjunct adjunct adjunct comp_inf obj adjunct adjunct comp punct 
+subj adjunct adjunct comp pred adjunct pd punct 
+subj conjunct adjunct mwe mwe adjunct comp adjunct adjunct adjunct pd punct conjunct obj adjunct pred conjunct adjunct comp punct 
+adjunct conjunct aglt refl obj comp_inf punct coord obj conjunct punct complm comp_fin comp comp punct punct punct 
+adjunct adjunct pred obj punct adjunct adjunct adjunct adjunct adjunct comp punct 
+pred punct complm subj comp_fin cond adjunct comp pd punct 
+conjunct coord_punct subj conjunct comp_inf comp adjunct adjunct comp adjunct comp punct 
+adjunct adjunct comp comp adjunct comp subj adjunct adjunct comp neg pred comp adjunct comp adjunct adjunct comp punct 
+adjunct comp comp pred aglt obj_th adjunct comp adjunct punct 
+punct conjunct subj coord_punct adjunct comp comp mwe comp conjunct adjunct comp adjunct punct 
+punct pred adjunct subj adjunct comp obj punct 
+subj adjunct adjunct pred adjunct obj adjunct obj_th adjunct adjunct comp punct 
+adjunct adjunct comp subj pred refl comp adjunct comp adjunct punct 
+adjunct adjunct subj ne adjunct comp adjunct comp ne punct adjunct adjunct subj pred punct complm subj comp_fin obj adjunct refl comp comp punct adjunct obj adjunct comp conjunct adjunct conjunct adjunct punct 
+subj punct adjunct adjunct adjunct comp punct pred comp_inf obj comp comp adjunct punct 
+conjunct aglt refl adjunct comp pred conjunct obj punct subj adjunct refl comp comp adjunct punct 
+punct adjunct obj_th refl neg comp_fin punct pred comp_inf adjunct pd punct punct punct 
+adjunct subj pred refl comp adjunct obj punct 
+punct adjunct comp pred comp comp adjunct subj punct 
+adjunct subj pred refl comp comp adjunct adjunct comp adjunct comp punct 
+adjunct pred refl punct complm subj adjunct adjunct neg comp_fin punct 
+subj pred cond obj adjunct comp adjunct adjunct punct 
+punct pd pred refl adjunct comp punct adjunct comp adjunct punct 
+adjunct subj adjunct comp pred obj adjunct adjunct comp punct app adjunct comp adjunct adjunct comp punct obj adjunct mwe adjunct adjunct comp subj adjunct adjunct punct 
+subj conjunct adjunct comp obj coord conjunct aglt refl punct 
+subj conjunct adjunct conjunct pred adjunct pd punct adjunct adjunct obj pre_coord conjunct adjunct punct adjunct mwe conjunct adjunct adjunct comp adjunct punct 
+adjunct comp adjunct adjunct adjunct pred obj punct complm comp_fin obj adjunct comp punct 
+subj adjunct comp pred comp adjunct adjunct comp adjunct obj punct 
+subj pred obj comp adjunct comp adjunct punct 
+obj adjunct comp pred punct complm adjunct comp adjunct comp_fin comp punct 
+adjunct comp pred obj_th punct complm comp_fin aglt comp adjunct adjunct comp punct subj adjunct obj_th conjunct adjunct comp obj adjunct conjunct adjunct punct 
+adjunct subj neg pred adjunct comp comp adjunct app punct 
+punct pred aglt comp conjunct adjunct conjunct obj punct 
+subj adjunct adjunct adjunct adjunct neg pred comp adjunct adjunct comp adjunct punct 
+adjunct subj pred obj adjunct comp adjunct comp conjunct obj adjunct conjunct punct 
+adjunct pred punct complm aux comp_fin adjunct subj adjunct comp obj adjunct adjunct punct 
+subj ne adjunct comp adjunct pred comp adjunct comp punct 
+obj_th ne abbrev_punct pred refl adjunct punct complm comp_fin adjunct comp adjunct adjunct obj adjunct comp comp comp adjunct adjunct adjunct adjunct punct 
+pred subj mwe adjunct comp obj adjunct punct adjunct adjunct adjunct obj adjunct punct 
+pred refl comp comp conjunct adjunct conjunct comp punct 
+adjunct comp adjunct adjunct comp adjunct subj pred pd conjunct adjunct conjunct punct 
+adjunct comp subj pred obj adjunct comp punct adjunct refl comp_inf adjunct adjunct comp adjunct obj punct app ne punct 
+pred obj comp punct 
+adjunct subj pred adjunct comp punct 
+adjunct refl adjunct comp comp adjunct subj adjunct app abbrev_punct app ne neg pred adjunct comp_inf refl comp punct 
+comp comp adjunct adjunct adjunct conjunct comp conjunct adjunct comp pred refl conjunct adjunct conjunct subj punct 
+pred obj adjunct punct obj adjunct adjunct comp adjunct subj punct 
+adjunct comp subj app adjunct comp adjunct comp pred obj adjunct adjunct adjunct punct 
+adjunct subj punct conjunct coord_punct conjunct adjunct conjunct punct pred conjunct obj conjunct punct 
+adjunct adjunct subj pred refl comp comp adjunct adjunct punct 
+adjunct adjunct app punct adjunct adjunct adjunct punct conjunct obj adjunct pred conjunct comp comp adjunct comp punct 
+subj adjunct comp conjunct obj_th comp comp pred adjunct conjunct refl comp_inf adjunct comp adjunct punct 
+neg conjunct subj adjunct comp adjunct comp adjunct adjunct punct pred conjunct refl comp adjunct punct 
+adjunct obj adjunct comp adjunct adjunct pred subj adjunct comp adjunct comp adjunct comp adjunct adjunct adjunct adjunct comp punct 
+conjunct subj conjunct pred adjunct comp adjunct comp adjunct comp adjunct obj punct 
+subj adjunct neg pred punct 
+adjunct subj aux adjunct pred adjunct comp adjunct adjunct adjunct punct 
+neg pred neg comp_inf obj adjunct adjunct comp adjunct adjunct punct 
+subj adjunct pred pd adjunct adjunct comp adjunct adjunct adjunct comp adjunct punct adjunct adjunct adjunct punct 
+adjunct adjunct pred refl punct adjunct adjunct comp punct 
+pred obj adjunct subj punct 
+subj adjunct pred adjunct mwe comp adjunct comp adjunct adjunct punct subj adjunct obj adjunct punct 
+subj adjunct adjunct comp conjunct obj pred conjunct adjunct adjunct obj punct 
+subj adjunct adjunct neg pred adjunct comp obj adjunct comp adjunct refl adjunct adjunct punct 
+pd pred subj adjunct conjunct obj adjunct adjunct conjunct obj adjunct adjunct comp punct 
+punct adjunct pred refl comp comp adjunct adjunct comp adjunct adjunct comp adjunct punct 
+subj adjunct comp pred adjunct adjunct mwe mwe comp adjunct adjunct comp comp comp adjunct adjunct conjunct adjunct conjunct punct 
+adjunct mwe comp adjunct adjunct pred obj adjunct comp adjunct punct subj neg adjunct obj conjunct adjunct adjunct adjunct conjunct punct 
+pred conjunct coord_punct conjunct coord_punct conjunct conjunct conjunct coord_punct conjunct comp pd adjunct conjunct punct 
+adjunct conjunct coord_punct conjunct coord_punct conjunct coord_punct adjunct conjunct subj conjunct adjunct pred obj punct 
+aux conjunct conjunct punct conjunct punct conjunct coord_punct conjunct punct conjunct adjunct conjunct adjunct punct coord neg conjunct comp_inf pd punct 
+conjunct obj comp coord_punct conjunct conjunct comp comp adjunct conjunct punct 
+adjunct obj adjunct comp adjunct comp adjunct pred conjunct adjunct conjunct subj adjunct mwe adjunct comp comp comp punct 
+subj ne pred adjunct adjunct comp obj adjunct adjunct comp adjunct adjunct adjunct conjunct adjunct conjunct punct 
+conjunct cond comp_inf adjunct comp obj punct adjunct adjunct punct adjunct obj_th pred conjunct refl punct complm adjunct adjunct comp subj obj comp_fin punct 
+subj adjunct adjunct pred comp adjunct pd adjunct comp adjunct comp punct 
+pd pred subj adjunct adjunct punct adjunct adjunct conjunct adjunct conjunct comp adjunct comp adjunct adjunct adjunct punct 
+subj ne ne ne pred comp adjunct comp adjunct adjunct adjunct punct 
+subj conjunct conjunct pd conjunct punct coord subj adjunct adjunct adjunct comp comp punct adjunct adjunct adjunct comp punct conjunct adjunct adjunct obj_th obj comp punct 
+punct subj pred obj adjunct comp adjunct adjunct conjunct comp comp comp conjunct obj adjunct punct 
+pred aglt adjunct comp obj comp comp punct 
+adjunct obj pred obj_th adjunct adjunct subj punct 
+pred aux adjunct subj punct 

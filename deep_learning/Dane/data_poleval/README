@@ -1,0 +1,7 @@
+"rev" - sentences from product reviews
+"sklad" - sentences from skladnic
+
+"labels" - sentiment labels
+"parents" - IDs of dependency parents of each token
+"rels" - dependency relations of each token
+"sentence" - space tokenized sentence
